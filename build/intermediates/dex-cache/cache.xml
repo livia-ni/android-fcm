@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.0_fd63ba0846e47d72a6717ec3b1d716f499d0d61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5ecd65a2915f5b45df435b1cca02f67e6937c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_8a7c74ba6a23578a9022377aad13d99a7cc7b38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_48e7896e558aa816d934e09c8a1be0b9bd477fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_7af11d83abbd5a59ddaae5815c0e77fb9ccb3d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_346702d2bd5189719d23272a826ec069a843ec5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_f90b858ae66d45f578fd78119e36cdce31b0dbd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-25.1.0_fee273edeadaeaccc1980003fce0ef49546e1419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_ee485fb5c34fbef2f44284b868c6fd796ddb950f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_6db2d9892803b698fdb385ee2f36e2e5cefe2158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_432caa6cc51243b55b9b4c18ca73cd8c9d3800a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/net.simonvt.schematic-schematic-0.6.3_270235e780e25a1ae190c15ee2c71944922d9d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_27d5d8725fb19687430c35f269c26f4f708c50fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_9d3053eadde9fbfe71489ccf09391dd6719bc5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/schematic-annotations-0.6.3_92bdfcb2c14a62d914ec8e61bfa7ca1bce10a137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_9c0e6bde3ad9e6cfcd480cd194d686909f066d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_fb2adfc31600abce9154b1b769f9c21e0b195b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_07fd49f8529fbe7c262db298ee68b6ae0dc7fe6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_488dc8c51093538304b8726b4cbb4ddc7d94f335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_e28668dce958db9af143f7cbfa433660aece514f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/livia/android-fcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/livia/android-fcm/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_a4d11190f34fabf31a9d1442604adf885015b954.jar" />
+    </item>
+
+</items>
